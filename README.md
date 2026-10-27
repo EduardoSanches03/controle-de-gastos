@@ -7,10 +7,7 @@ App desktop para controlar despesas parceladas por cartão.
 - **Janela:** pywebview (Edge WebView2), em `app.py`
 
 ## Download
-**[⬇ Baixar a última versão](https://github.com/EduardoSanches03/controle-de-gastos/releases/latest)**
-
-- `ControleDeGastos-windows.zip`: extraia e rode `ControleDeGastos.exe` (ou use `instalar.ps1` para instalar com atalhos).
-- `ControleDeGastos.apk`: app Android.
+**[⬇ Baixar ControleDeGastos.exe](https://github.com/EduardoSanches03/controle-de-gastos/releases/latest/download/ControleDeGastos.exe)** (Windows, não precisa instalar)
 
 ## Instalar / atualizar o programa no PC
 ```powershell
