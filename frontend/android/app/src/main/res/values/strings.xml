@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Controle de Gastos</string>
+    <string name="title_activity_main">Controle de Gastos</string>
+    <string name="package_name">br.pessoal.controledegastos</string>
+    <string name="custom_url_scheme">br.pessoal.controledegastos</string>
+</resources>
